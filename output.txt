@@ -1,0 +1,20 @@
+Faculty 1 of category x2 has been alloted the following Courses:5 
+Faculty 2 of category x3 has been alloted the following Courses:18 17 
+Faculty 3 of category x3 has been alloted the following Courses:12 16 
+Faculty 4 of category x2 has been alloted the following Courses:13 
+Faculty 5 of category x2 has been alloted the following Courses:14 
+Faculty 6 of category x1 has been alloted the following Courses:6 
+Faculty 7 of category x2 has been alloted the following Courses:11 
+Faculty 8 of category x1 has been alloted the following Courses:16 
+Faculty 9 of category x2 has been alloted the following Courses:8 
+Faculty 10 of category x3 has been alloted the following Courses:15 3 
+Faculty 11 of category x2 has been alloted the following Courses:10 
+Faculty 12 of category x2 has been alloted the following Courses:7 
+Faculty 13 of category x1 has been alloted the following Courses:17 
+Faculty 14 of category x1 has been alloted the following Courses:3 
+Faculty 15 of category x2 has been alloted the following Courses:2 
+Faculty 16 of category x3 has been alloted the following Courses:9 6 
+Faculty 17 of category x2 has been alloted the following Courses:20 
+Faculty 18 of category x2 has been alloted the following Courses:1 
+Faculty 19 of category x2 has been alloted the following Courses:4 
+Faculty 20 of category x2 has been alloted the following Courses:19 
