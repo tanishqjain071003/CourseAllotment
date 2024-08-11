@@ -45,7 +45,6 @@ where:
 
 
 ## Credits
-We would like to thank ChatGPT, Youtube and geekforgeeks for our project.
 We express our gratitude to the IC- Dr. Snehanshu Saha for giving us the opportunity to broaden our horizon of our knowledge and improve our understanding of algorithms involving discrete mathematics.
 Thank you to all TAs for assessing our project and granting us (hopefully full) marks.
 
